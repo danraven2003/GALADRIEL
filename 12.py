@@ -1,8 +1,8 @@
-import discord
+'''import discord
 import requests
 import os
 import asyncio
-from discord.ext import commands
+from discord.ext import commands'''
 def s():
     global m
     m.clear()
